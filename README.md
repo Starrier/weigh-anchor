@@ -1,6 +1,6 @@
-# Dreamwar-Fontend
+# WeighAnchor
 
-> DreamWar fore-end
+> This is the front end of Project DreamWar, and his name was DreamWar-Front.
 
 ## Build Setup
 
