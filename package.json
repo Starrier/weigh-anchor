@@ -1,5 +1,5 @@
 {
-  "name": "WeighAnchor",
+  "name": "weigh-anchor",
   "version": "1.0.0",
   "description": "DreamWar fore-end",
   "author": "Starrier",
@@ -14,11 +14,14 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "lighthouse": "^7.2.0",
     "markdown-it": "^8.4.0",
     "mavon-editor": "^2.4.16",
+    "npm": "^7.6.3",
+    "upgrade": "^1.1.0",
     "vue": "^2.5.13",
-    "vue-router": "^3.0.1",
-    "vue-image-scroll": "latest"
+    "vue-image-scroll": "latest",
+    "webpack-dev-server": "^3.11.2"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
@@ -60,7 +63,7 @@
     "jest": "^21.2.0",
     "jest-serializer-vue": "^0.3.0",
     "nightwatch": "^0.9.12",
-    "node-notifier": "^5.1.2",
+    "node-notifier": "^5.4.5",
     "node-sass": "^4.7.2",
     "optimize-css-assets-webpack-plugin": "^3.2.0",
     "ora": "^1.2.0",
@@ -80,12 +83,12 @@
     "vue-jest": "^1.0.2",
     "vue-loader": "^13.7.0",
     "vue-resource": "^1.3.6",
-    "vue-router": "^3.0.1",
+    "vue-router": "^3.5.1",
     "vue-style-loader": "^3.0.1",
     "vue-template-compiler": "^2.5.13",
     "webpack": "^4.0.0",
     "webpack-bundle-analyzer": "^2.9.0",
-    "webpack-dev-server": "^3.11.2",
+    "webpack-cli": "^4.4.0",
     "webpack-merge": "^4.1.0"
   },
   "engines": {
