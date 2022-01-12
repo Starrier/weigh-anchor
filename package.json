@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "lighthouse": "^7.2.0",
-    "markdown-it": "^8.4.0",
+    "markdown-it": "^12.3.2",
     "mavon-editor": "^2.4.16",
     "npm": "^7.6.3",
     "upgrade": "^1.1.0",
